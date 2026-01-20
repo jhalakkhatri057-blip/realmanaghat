@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ne">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Managhat Municipality</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Header / Top nav -->
+    <header>
+        <div class="logo">
+            <h1>रियल मनघाट नगरपालिका</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#home">गृहपृष्ठ</a></li>
+                <li><a href="#intro">परिचय</a></li>
+                <li><a href="#services">सेवाहरु</a></li>
+                <li><a href="#news">सूचना/समाचार</a></li>
+                <li><a href="#contact">सम्पर्क</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero / Intro -->
+    <section id="home" class="hero">
+        <h2>स्वागत छ — रियल मनघाट नगरपालिका</h2>
+        <p>समृद्ध रियल मनघाट, हाम्रो भविष्य।</p>
+    </section>
+
+    <!-- Introduction -->
+    <section id="intro">
+        <h2>परिचय</h2>
+        <p>रियल मनघाट नगरपालिका नेपालको <strong>मनघाट जिल्ला</strong> अन्तर्गत अवस्थित...</p>
+    </section>
+
+    <!-- Services -->
+    <section id="services">
+        <h2>सेवाहरु</h2>
+        <ul>
+            <li>जनसम्पर्क</li>
+            <li>बजेट / योजनाहरु</li>
+            <li>नागरिक सेवा फारमहरु</li>
+            <li>निर्णयहरु / कानुनहरु</li>
+        </ul>
+    </section>
+
+    <!-- News / Notices -->
+    <section id="news">
+        <h2>सूचना तथा समाचार</h2>
+        <p>यहाँ सूचना, घोषणा, र उपलब्धिहरू राख्ने ठाउँ।</p>
+    </section>
+
+    <!-- Contact -->
+    <footer id="contact">
+        <h2>सम्पर्क</h2>
+        <p>Email: info@realmanaghat.gov.np</p>
+        <p>फोन: +977-XXXXXXXXXX</p>
+    </footer>
+
+</body>
+</html>
